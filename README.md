@@ -23,30 +23,6 @@ I'm Raj Dedhia, a passionate Data Analyst currently pursuing a Master's degree i
 - **Languages:** SQL, Python, R, C++, Java.
 - **Tools:** MS Excel, Power BI, Tableau, Looker, Jupyter Notebook, AWS, Snowflake.
 
-## 🚀 Academic Projects
-
-### USA Car Accident Analysis [GitHub] (September 2023 - November 2023)
-
-- Conducted EDA using R and Python on 7.7 Million records, achieving a project score of 97/100.
-- Built a dynamic linear regression model for data analysis.
-
-### Inventory Management System [GitHub] (September 2023 - November 2023)
-
-- Developed a smart Inventory Management System with Oracle Developer and PHP.
-
-### OYO Dashboard Analysis [GitHub] (May 2023 - July 2023)
-
-- Spearheaded the development of an advanced Power BI dashboard, contributing to a 20% boost in overall business understanding.
-
-### Cricket T20 World Cup Data Analytics [GitHub] (August 2022 - November 2022)
-
-- Created interactive visualizations and dashboards using Power BI, achieving a 98% data integrity rate.
-
-## 📚 Publications
-
-### Visualizing the Global Impact of Covid-19 (June 2020 - August 2021)
-
-- Collaboratively curated an extensive Covid-19 dataset, demonstrating proficiency in data visualization and strategic analysis.
 
 Feel free to reach out via [email](mailto:rajdedhia2002@gmail.com). Let's connect and explore exciting opportunities in the world of data!
 
